@@ -57,7 +57,7 @@ Leadership needs an operational dashboard that answers:
 | **Operational Check** | Transactions placed before store openings | `store_open_date > order_date` | 0 anomalies found; verification check successful |
 
 ## 📈Report Overview
-Insert report here
+![Report Overview](report/executive_report.png)
 
 ## 💡Key Insights
 - Core warehouse systems are highly stable; fulfillment cycles are tightly optimized across all segments, ranging narrowly between 4.0 and 5.0 days.
