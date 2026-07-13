@@ -40,7 +40,7 @@ Leadership needs an operational dashboard that answers:
 
 ## 📁Dataset
 
-Global Electronics Retailer Dataset - This dataset includes tables containing information about transactions, products, customers, stores and currency exchange rates.
+[Global Electronics Retailer Dataset](data/raw/global-electronics-retailer.zip) - This dataset includes tables containing information about transactions, products, customers, stores and currency exchange rates.
 *From Maven Analytics*
 
 - **Transaction Focus:** Completed online orders (`delivery_date IS NOT NULL`)
